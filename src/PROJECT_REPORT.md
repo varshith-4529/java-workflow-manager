@@ -1,8 +1,8 @@
 # PROJECT REPORT
 
-**Project Title:** Task & Workflow Engine — A CLI-Based Task Management System
+**Project Title:** Java-Workflow-Manager — A CLI-Based Task Management System
 **Course Context:** Core Java / Object-Oriented Programming (Flipped Course Project)
-**Repository:** `https://github.com/{username}/task-workflow-engine`
+**Repository:** `https://github.com/varshith-4529/java-workflow-manager`
 **Language / Runtime:** Java 17, Apache Maven
 **Submission Type:** Individual Software Engineering Project
 
@@ -10,7 +10,7 @@
 
 ## 1. Abstract
 
-The Task & Workflow Engine is a headless, command-line Java application that
+The Java-Workflow-Manager is a headless, command-line Java application that
 enables a user to create, prioritize, track, and persist work items —
 "tasks" — across sessions without relying on a database server or graphical
 toolkit. The system is architected in four cleanly separated layers: a
